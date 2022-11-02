@@ -5,7 +5,8 @@ Este Repositório tem como finalidade hospedar todos o meu progresso e desafios 
 ## Pastas No Repositório
 
 > - Introdução Git e GitHub
->   Pasta com Anotações das aulas e comandos de terminal e git.
+
+_Pasta com Anotações das aulas e comandos de terminal e git._
 
 ### Primeiro Desafio
 
